@@ -27,7 +27,7 @@ Follow these steps to submit your reimbursement requests:
    - Select "Out of pocket expense (reimbursement)"
    - Select "Student", as you are reimbursing yourself from your staff account to your student account
 
-   ![image](https://github.com/user-attachments/assets/51cf2aaa-ac55-4155-a02a-5a169ff2451e)
+   ![image](https://github.com/user-attachments/assets/074778a9-8ed8-4e34-aec7-94a58c9e2e3d)
 
 3. **Complete Student Details**
    - Fill in your student number and click out of the text box, this should automatically populate the "student name" field
@@ -36,26 +36,26 @@ Follow these steps to submit your reimbursement requests:
    - List the expenses you are claiming for (suggested format in the following screenshot)
    - Fill in the total amount you are to be reimbursed
 
-   ![image](https://github.com/user-attachments/assets/029090f4-b2f8-4c09-b51a-c94b2fe72b7d)
+   ![image](https://github.com/user-attachments/assets/19082bcc-a6cd-4cbe-b22d-4c22238abe7d)
 
 4. **Complete Account String Details**
    - Ensure that you have received an account string from your supervisor
    - Fill in the account string and the reimbursed amount from that account (note that your supervisor may ask you to break down the reimbursement across multiple accounts, in which case multiple rows would be completed)
 
-   ![image](https://github.com/user-attachments/assets/4a509386-5e4a-4aa5-a79f-0fed14fd7438)
+   ![image](https://github.com/user-attachments/assets/0c683fac-60f3-4a40-90f3-0fbf85aadbcd)
 
 5. **Fetch Financial Approvers**
    - Once you have filled in your account string(s), click the `Fetch Financial Approvers` button
    - This should populate the dropdown list under "Financial Approver Details"
    - Select your supervisor's name from the dropdown list
 
-   ![image](https://github.com/user-attachments/assets/eda33f8a-40db-4f42-9804-977c43bbb6da)
+   ![image](https://github.com/user-attachments/assets/81b4d407-70d4-40fb-8fd0-ae5c55e3c5bf)
 
 6. **Provide Additional Information**
    - Attach any receipts related to your reimbursement
    - List any additional comments for your supervisor
 
-   ![image](https://github.com/user-attachments/assets/254b5f29-454f-4476-a891-468356dfb975)
+   ![image](https://github.com/user-attachments/assets/bf119e55-1534-49f1-ac32-0cd2e7902967)
 
 7. **Submit the Form**
 
