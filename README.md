@@ -15,6 +15,9 @@ This repository serves as a central hub for administrative instructions and reso
 
 ---
 
+<details>
+<summary>Reimbursements for Students</summary>
+
 ## 🤑 Reimbursements for Students
 
 Follow these steps to submit your reimbursement requests:
@@ -64,10 +67,16 @@ Follow these steps to submit your reimbursement requests:
    - Follow the instructions provided in the email to complete your bank details for reimbursement
    - You should receive an email on your **staff** account once your supervisor approves the reimbursement request and it is put through the system, titled **"Finance: New Request FRxxx - Refund and Reimbursement request"**
    - You should receive an email on your **student** account once the money has been credited to your account, titled **"Separate Remittance Advice: paper document number - xxx"**
+
 ---
+</details>
+
+<details>
+<summary>Seminar Coordination</summary>
 
 ## 🎓 Seminar Coordination
 
 Under construction
 
 ---
+</details>
