@@ -112,7 +112,7 @@ Follow these steps for completing HCI seminar administration:
    - Within your calendar, copy the seminar to the HCI calendar so that other members of the group are aware of this
   
 7. **Advertise the Seminar via CIS Admin**
-   - Send an email to cis-admin@unimelb.edu.au with the other seminar coordinators cc'd, titled "HCI Seminar Advertisement" and with the following information:
+   - Send an email to CIS Admin (cis-admin@unimelb.edu.au) with the other seminar coordinators cc'd, titled "HCI Seminar Advertisement" and with the following information:
    - **PhD Seminars:**
       - Presenter's name
       - Supervisors and chair (include their titles, names, and emails)
