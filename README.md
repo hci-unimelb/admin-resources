@@ -76,7 +76,92 @@ Follow these steps to submit your reimbursement requests:
 
 ## 🎓 Seminar Coordination
 
-Under construction
+Follow these steps for completing HCI seminar administration:
 
+1. **Check Seminar Details**
+   - Speakers should provide their seminar information beforehand, which can be accessed via [this form](https://go.unimelb.edu.au/uek8)
+   - Ensure that all fields in the form have been filled in (the seminar title and abstract may be optional)
+  
+2. **Add the Seminar Details to the [HCI Seminar Timetable](https://go.unimelb.edu.au/ive8)**
+
+3. **Book the Seminar Room**
+   - Book a seminar room (most likely the Steve Howard Room - Room 5206) for the chosen timeslot, using your **staff** account via Outlook
+      - This can be done via the `Outlook calendar -> New Meeting -> select the start time and end time -> use the room finder option to locate the desired room`
+      - The availability of each room can be found via `My Calendars -> right-click -> Add Calendar -> From Room List -> select the relevant room`
+      - Title the meeting "HCI Seminar - [Speaker Name]"
+   - If available, also make a separate booking for the seminar room for 30 minutes prior to the seminar to allow time for setting up the room (e.g. if the seminar is from 3pm to 4pm, make another booking from 2:30pm to 3pm)
+      - Title the meeting "HCI Seminar" 
+
+4. **Create the Zoom Meeting**
+   - Schedule a Zoom meeting for the desired time
+      - Title the meeting "HCI Seminar - [Speaker Name]"
+      - **Options to change:** disable waiting room, turn participant video off by default, Advanced Options -> mute participants upon entry, Advanced Options -> add all the Zoom accounts of the seminar coordinators as alternative hosts
+   - Copy the resulting Zoom meeting link and password
+
+5. **Update the Seminar Room Booking Meeting**
+   - Invite both the student and staff emails of all seminar coordinators, then:
+      - **PhD Seminars:** invite the student, all of their supervisors, and their AC chair
+      - **Guest Seminars:** invite the guest and the staff member who is hosting the guest
+   - Add the following to the meeting description: 
+      - The title and abstract of the seminar (this may need to be added later if not currently available)
+      - The generated Zoom meeting link and password
+      - **Guest Seminars Only:** the presenter's bio
+
+6. **Copying to the HCI Calendar**
+   - Accept the seminar meeting invite on your **student** email 
+   - Within your calendar, copy the seminar to the HCI calendar so that other members of the group are aware of this
+  
+7. **Advertise the Seminar via CIS Admin**
+   - Send an email to cis-admin@unimelb.edu.au with the other seminar coordinators cc'd, titled "HCI Seminar Advertisement" and with the following information:
+   - **PhD Seminars:**
+      - Presenter's name
+      - Supervisors and chair (include their titles, names, and emails)
+      - Seminar title
+      - Seminar abstract
+      - Seminar location
+      - Zoom link
+      - Seminar date and time
+   - **Guest Seminars:**
+      - Presenter's name
+      - Presenter's institution
+      - Seminar title
+      - Seminar abstract
+      - Presenter's bio
+      - Seminar location
+      - Zoom link
+      - Seminar date and time
+   - Verify that the seminar has been advertised by the end of the week, follow up if not
+
+8. **Schedule Slack Reminders**
+   - Schedule posts in Slack to advertise seminars to the group
+   - Posts are usually made on Monday at 9am advertising all seminars for the week, and another reminder is sent on 9am of the day of each individual seminar
+   - Refer to past Slack seminar reminders for formatting, note the differences between PhD and guest seminars
+  
+9. **Order Seminar Food (PhD Completion and Guest Seminars Only)**
+   - See previous seminar coordinators for account details and additional information
+
+10. **Advertise on Eventbrite (Guest Seminars Only)**
+   - See previous seminar coordinators for account details
+   - Go to [Eventbrite](https://www.eventbrite.com.au/)
+   - Select FEIT as the organisation 
+   - Create an event (without AI):
+      - Add the seminar's promotional image
+      - Add the seminar title and a short summary (e.g. "This seminar will discuss ..."), these may need to be shortened due to character limits
+      - Add the seminar date and time
+      - Add the location: Melbourne Connect
+      - Add the seminar abstract, speaker photo, and speaker bio to the "about this event" section
+      - Copy tickets from one of our past seminars: `Import tickets -> edit online admission (Zoom) and add Zoom link and password in the description -> change "sales start" to today’s date -> "sales end" can be after the seminar for both in-person and online admissions → save`
+      - Add the relevant event type, categories, and tags
+      - Set the organiser to be FEIT
+   - Publish the event as a public event
+
+11. **Advertise on LiveWhale (UoM Events) (Guest Seminars Only)**
+   - Go to [LiveWhale](https://events.unimelb.edu.au/livewhale) and add the same details
+   - Email Rosanna Verde (rverde@unimelb.edu.au) to publish LiveWhale event
+      - Title the email "Event To Be Published on LiveWhale"
+      - State the title of the event to be published
+      - Verify that the seminar has been advertised by the end of the week, follow up if not
+    
+12. **Host the Seminar!**
 ---
 </details>
