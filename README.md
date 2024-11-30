@@ -76,6 +76,8 @@ Follow these steps to submit your reimbursement requests:
 
 ## 🎓 Seminar Coordination
 
+### Seminar Administration
+
 Follow these steps for completing HCI seminar administration:
 
 1. **Check Seminar Details**
@@ -163,5 +165,54 @@ Follow these steps for completing HCI seminar administration:
       - Verify that the seminar has been advertised by the end of the week, follow up if not
     
 12. **Host the Seminar!**
+---
+
+### Seminar Hosting
+
+Follow these steps for hosting an HCI seminar:
+
+1.	**Presentation Slides Setup**
+   - On the wall panel, select the lectern laptop for the presentation.
+   - Connect the presenter’s laptop using the cables at the podium:
+      - They should be extending their screen if they want to use presenter view on their presentation
+   - Presentations should ideally be in PowerPoint, you cannot use the presenter view with Canva on this screen
+   - Check that the presentation is displaying correctly
+
+2.	**Audio Setup**
+   - It is preferred for presenters to use a lapel mic
+   - All mics are in the charging ports at the podium, the lapel mics have a power button on the side and can be muted/unmuted from the switch on the top
+   - Check if the audio from the roaming mics is coming through the room speakers
+   - Have the presenter clip on a lapel mic and test the sound, they can leave it on mute until the seminar starts
+
+3.	**Zoom**
+   - Zoom should be run on both the coordinator's and presenter’s laptops
+      - Ask the presenter to join the Zoom meeting using the email link we have sent them
+      - One seminar coordinator should also join the Zoom as the meeting host
+   - The presenter should share their screen in the Zoom: check that both the projector screen and the Zoom have the correct view being displayed
+   - If the views are different or presenter view shows up on the screens:
+      - Stop sharing
+      - Start the presentation in presenter view
+      - Re-share with Zoom and select the window that has the audience view of the presentation
+   - Flick through a few slides on the screen to check if there is a lag on Zoom
+   - If the presentation has audio:
+      - Select the option to share audio as well when sharing the presentation on Zoom
+      - Set the output speaker of the presenter's Zoom to "Extron HDMI" so that the audio can be broadcasted through the room speakers
+   - You can step out of the room with your device or lower the volume while the presenter is testing the mics and check if sound is coming through correctly on Zoom
+
+4.	**Q&A Section**
+   - Send around the roaming mics to audience members in the room who have questions so that people on Zoom will be able to hear the discussion
+   - Ask participants on Zoom to post their questions in the chat either at the beginning of the seminar and/or when the Q&A is starting
+   - Monitor the Zoom to see if any questions are being asked, read the questions out loud so that the room can hear
+
+5.	**Other Things to Note**
+   - Some presenters may ask for their seminar to be recorded, you can do so through Zoom by recording to the cloud
+   - Before the seminar starts, send a message on Slack reminding the group about the seminar
+   - At the end, collect all mics and return them to their charging docks
+   - For confirmation (and occasionally completion) seminars:
+      - If there are any members of the advisory panel on Zoom, assign the meeting host to the presenter (student) and leave the Zoom meeting
+   - For other seminars:
+      - Close the Zoom meeting
+   - If food is being served, remind the audience about this 
+
 ---
 </details>
