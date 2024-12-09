@@ -44,8 +44,9 @@ Follow these steps to submit your reimbursement requests:
 4. **Complete Account String Details**
    - Ensure that you have received an account string from your supervisor
    - Fill in the account string and the reimbursed amount from that account (note that your supervisor may ask you to break down the reimbursement across multiple accounts, in which case multiple rows would be completed)
-
-   ![image](https://github.com/user-attachments/assets/0c683fac-60f3-4a40-90f3-0fbf85aadbcd)
+   - Supervisors frequently leave the fourth segment of the account string blank (XXXX). This segment can be completed with the appropriate code found in the **Chart of Accounts - Natural Accounts Glossary**, which is available for download via the link provided in the form
+  
+   ![Screenshot 2024-12-09 164532](https://github.com/user-attachments/assets/b8ecfafd-7bd5-4afb-afcd-4e8be9ce0a63)
 
 5. **Fetch Financial Approvers**
    - Once you have filled in your account string(s), click the `Fetch Financial Approvers` button
