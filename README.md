@@ -194,9 +194,9 @@ Follow these steps for hosting an HCI seminar:
       - Start the presentation in presenter view
       - Re-share with Zoom and select the window that has the audience view of the presentation
    - Flick through a few slides on the screen to check if there is a lag on Zoom
+   - Set the output speaker of the presenter's Zoom to "Extron HDMI" so that the audio can be broadcasted through the room speakers
    - If the presentation has audio:
       - Select the option to share audio as well when sharing the presentation on Zoom
-      - Set the output speaker of the presenter's Zoom to "Extron HDMI" so that the audio can be broadcasted through the room speakers
    - You can step out of the room with your device or lower the volume while the presenter is testing the mics and check if sound is coming through correctly on Zoom
 
 4.	**Q&A Section**
